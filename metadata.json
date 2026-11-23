@@ -1,0 +1,8 @@
+{
+  "name": "Video Translator",
+  "description": "AI-powered video transcription, subtitle translation, and voice dubbing app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
